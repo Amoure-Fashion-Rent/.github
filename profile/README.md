@@ -18,13 +18,16 @@ This application is born from common frustrations like the prevalent conundrum o
 
 ---
 
-<!--
+## Repositories
 
-**Here are some ideas to get you started:**
+### Machine Learning
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [ml-amoure](https://github.com/Amoure-Fashion-Rent/ml-amoure)
+
+### Cloud Computing
+
+- [backend-amoure](https://github.com/Amoure-Fashion-Rent/backend-amoure)
+
+### Mobile Development
+
+- [app-amoure](https://github.com/Amoure-Fashion-Rent/app-amoure)
