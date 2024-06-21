@@ -1,3 +1,5 @@
+![Logo](https://storage.googleapis.com/needs-bucket/Logo%20Amoure.png)
+
 ## Bangkit Capstone Project Entrepreneur Track ENTS-H101 - "Amoure" Women Fashion and Accessories Rent Application
 ---
 ## Members :
